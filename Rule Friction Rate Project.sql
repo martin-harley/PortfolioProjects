@@ -1,4 +1,4 @@
-# Query to detect friction, recall, and precision of implementing a rule within a merchant given parameters (ex. DiDi Foods)
+# Query to detect friction, recall, and precision of implementing a rule within a merchant (ex. DiDi Foods) given parameters (ex. country, card brand, date)
 
 SELECT
     year_month as "Date",
